@@ -1,6 +1,7 @@
 # 🎓 My Certifications
 
-This page highlights the certifications I’ve earned in DevOps, Cloud, Programming, and related technologies.
+This page highlights the certifications I’ve earned in DevOps, Cloud, Programming, and related technologies. 
+Click on the Certificate Title to verify the Certificates
 
 <table>
   <tr>
