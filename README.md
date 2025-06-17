@@ -5,10 +5,10 @@ This page highlights the certifications I’ve earned in DevOps, Cloud, Programm
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <a href="https://learn.microsoft.com/en-us/users/akshayachar-1764/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </a>
       <p>
-        <a href="https://learn.microsoft.com/en-us/users/akshayachar-1764/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
-        <strong>Microsoft Certified: Azure Fundamentals</strong> </a>
+        <strong>Microsoft Certified: Azure Fundamentals</strong>
         </p>
       <p>Fundamental understanding of Azure services, workloads, security, and governance.</p>
     </td>
