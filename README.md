@@ -6,11 +6,6 @@ You can verify my certificates by clicking on the certificate title cards below.
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://learn.microsoft.com/en-us/users/akshay-8294/credentials/9448bc6f1222c047" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </a>
-      <p>Managed Azure identities and governance, implemented storage solutions, deployed and administered compute resources, configured virtual networking, and monitored Azure environments.</p>
-    </td>
-    <td width="50%" align="center">
       <a href="https://learn.microsoft.com/en-us/users/akshayachar-1764/credentials/certification/azure-fundamentals?tab=credentials-tab" target="_blank">
       <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </a>
       <p>Fundamental understanding of Azure services, workloads, security, and governance.</p>
