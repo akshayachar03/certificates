@@ -15,7 +15,7 @@ Click on any card below to verify the credential.
       </a>
       <br><br>
       <b>🏆 Expert Level</b>
-      <p>Designed scalable and secure Azure architectures covering compute, networking, storage, and identity with cost optimization.</p>
+      <p>Designed scalable and secure Azure architectures covering compute, networking, storage, and identity.</p>
     </td>
 
     <td width="50%" align="center">
@@ -59,7 +59,7 @@ Click on any card below to verify the credential.
       <a href="https://learn.kodekloud.com/user/certificate/7d911fac-285f-4f39-9eae-376f1fba0025">
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       </a>
-      <p>☸️ Kubernetes basics including pods, deployments, and services.</p>
+      <p>☸️ Kubernetes fundamentals including pods, deployments, and services.</p>
     </td>
   </tr>
 
@@ -113,7 +113,7 @@ Click on any card below to verify the credential.
       <a href="https://learn.kodekloud.com/user/certificate/11eb7159-8ac4-4fda-9556-d6125cb1b541">
         <img src="https://img.shields.io/badge/Advanced%20Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       </a>
-      <p>⚡ Advanced concepts: interfaces, testing, and memory management.</p>
+      <p>⚡ Advanced Go concepts: interfaces, testing, and memory management.</p>
     </td>
   </tr>
 </table>
