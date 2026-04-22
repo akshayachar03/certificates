@@ -78,13 +78,15 @@
 
 ## 🎓 Certifications
 
+## 🎓 Certifications
+
 <table>
   <tr>
     <td width="50%" align="center">
       <a href="https://learn.microsoft.com/en-us/users/akshay-8294/credentials/3736cb7d90fff228">
         <img src="https://img.shields.io/badge/Azure%20Solutions%20Architect%20Expert-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=111111" />
       </a>
-      <p>🏆 Expert: Designed scalable Azure architectures.</p>
+      <p>🏆 Designed scalable Azure architectures.</p>
     </td>
 
     <td width="50%" align="center">
@@ -111,8 +113,6 @@
     </td>
   </tr>
 </table>
-
-<hr style="border:1px solid #222;" />
 
 ---
 
